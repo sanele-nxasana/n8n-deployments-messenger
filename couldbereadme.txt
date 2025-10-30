@@ -1,1 +1,2 @@
 Cleared data
+New line
